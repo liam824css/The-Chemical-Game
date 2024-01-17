@@ -1,0 +1,24 @@
+{
+  "user" : {
+    "general" : {
+      "Liam824css" : {
+        "description" : "Developer. :)",
+        "level" : 250,
+        "money" : 999999999999999999999,
+        "email" : "mipo7404@gmail.com",
+        "password" : "dev"
+      },
+      "Test" : {
+        "description" : "test",
+        "level" : 0,
+        "money" : 100000000,
+        "email" : "development_test@xfclty.ty",
+        "password" : "dev"
+      }
+    },
+
+    "banned" : {
+
+    }
+  }
+}
